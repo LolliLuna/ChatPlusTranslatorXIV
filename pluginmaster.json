@@ -1,0 +1,29 @@
+{
+  "Author": "Lolli Luna",
+  "Name": "ChatPlusTranslatorXIV",
+  "Punchline": "Auto-translates chat messages in real time with full customization.",
+  "Description": "Replaces or augments the FFXIV chat box with real-time auto-translation for outgoing and incoming messages. Supports customizable language targets and message direction, designed for raiders and roleplayers alike.",
+  "Changelog": "- Initial release of ChatPlusTranslatorXIV\n- Replace or augment FFXIV's chat box\n- Translate incoming/outgoing/both messages\n- Multiple display options (replace, below, tooltip)\n- Language selection and API-ready structure",
+  "IsHide": false,
+  "InternalName": "ChatPlusTranslatorXIV",
+  "AssemblyVersion": "1.0.0.0",
+  "TestingAssemblyVersion": "1.0.0.0",
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "TestingDalamudApiLevel": 9,
+  "DownloadCount": 0,
+  "LastUpdate": 1751363451,
+  "DownloadLinkInstall": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV/releases/download/1.0.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV/releases/download/1.0.0.0/latest.zip",
+  "DownloadLinkTesting": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV/releases/download/1.0.0.0/latest.zip",
+  "SupportsProfiles": true,
+  "IconUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV/main/icon.png",
+  "Tags": [
+    "translation",
+    "chat",
+    "rp",
+    "accessibility"
+  ]
+}

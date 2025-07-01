@@ -1,0 +1,15 @@
+{
+  "Author": "Lolli Luna",
+  "Name": "ChatPlusTranslatorXIV",
+  "InternalName": "ChatPlusTranslatorXIV",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Replaces or augments the FFXIV chat box with real-time auto-translation for outgoing and incoming messages. Supports customizable language targets and message direction, designed for raiders and roleplayers alike.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "RepoUrl": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV",
+  "Tags": [
+    "chat",
+    "translation",
+    "rp"
+  ]
+}
