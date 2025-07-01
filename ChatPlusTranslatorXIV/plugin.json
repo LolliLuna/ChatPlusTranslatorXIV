@@ -6,7 +6,7 @@
   "Description": "Replaces or augments the FFXIV chat box with real-time auto-translation for outgoing and incoming messages. Supports customizable language targets and message direction, designed for raiders and roleplayers alike.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
-  "RepoUrl": "https://github.com/YOUR_GITHUB_USERNAME/ChatPlusTranslatorXIV",
+  "RepoUrl": "https://github.com/LolliLuna/ChatPlusTranslatorXIV",
   "Tags": [
     "chat",
     "translation",
